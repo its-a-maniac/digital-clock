@@ -1,0 +1,12 @@
+.digital_clock{
+    border-radius:30px ;
+    background-color: blueviolet;
+    height: 250px;
+    width: 50%;
+    margin:10% 25%;
+    overflow:auto;
+    text-align: center;
+    font-size: 90px;
+    color: aliceblue;   
+    padding-top: 100px;
+}
